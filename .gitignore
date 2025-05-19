@@ -1,0 +1,11 @@
+*.exe
+build/
+*.txt
+*.log
+.vscode/
+*.json
+*.o
+*.md
+**/__pycache__/
+*.pyc
+*.pyo
