@@ -5,7 +5,6 @@ build/
 .vscode/
 *.json
 *.o
-*.md
 **/__pycache__/
 *.pyc
 *.pyo
